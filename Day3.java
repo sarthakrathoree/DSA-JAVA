@@ -1,4 +1,4 @@
- import java.util.Scanner;
+ //import java.util.Scanner;
  public class Day3 {
    /*  static void swap(int a,int b){
         int temp=a;

@@ -1,5 +1,5 @@
 //  1>sum of odd and even positions
-import java.util.Scanner;
+//import java.util.Scanner;
 public class assignment{
 /*static void printSum(int[] arr){
         int Sumodd=0, Sumeven=0;
